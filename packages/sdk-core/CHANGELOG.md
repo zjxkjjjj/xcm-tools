@@ -1,5 +1,18 @@
 # Changelog
 
+## [14.4.5](https://github.com/paraspell/xcm-tools/compare/sdk-core-v14.4.4...sdk-core-v14.4.5) (2026-10-26)
+
+
+### Bug Fixes
+
+* Fix number amount scientific notation error 🛠️ ([24e8999](https://github.com/paraspell/xcm-tools/commit/24e8999921d4eb2c238ddb35b6c8647b06a2441c))
+
+
+### Tests
+
+* Fix snapshot comparison logic to ignore small changes in fees 🧪 ([d022997](https://github.com/paraspell/xcm-tools/commit/d022997db25928c31b575e016ba3ab4f4aba82c4))
+* Refactor sdk e2e test case generation 🧪 ([f30a398](https://github.com/paraspell/xcm-tools/commit/f30a398ce42e273e203a37ed24f9a8dba81227f1))
+
 ## [14.4.4](https://github.com/paraspell/xcm-tools/compare/sdk-core-v14.4.3...sdk-core-v14.4.4) (2026-10-20)
 
 

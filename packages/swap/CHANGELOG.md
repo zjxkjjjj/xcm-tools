@@ -1,5 +1,18 @@
 # Changelog
 
+## [14.4.5](https://github.com/paraspell/xcm-tools/compare/swap-v14.4.4...swap-v14.4.5) (2026-10-26)
+
+
+### Bug Fixes
+
+* Fix number amount scientific notation error 🛠️ ([24e8999](https://github.com/paraspell/xcm-tools/commit/24e8999921d4eb2c238ddb35b6c8647b06a2441c))
+
+
+### Continuous Integration
+
+* **assets:** Update SDK assets 📋 ([406d282](https://github.com/paraspell/xcm-tools/commit/406d282aec01486eaa154b5f351f41fc714c0db8))
+* **swap:** Update swap assets 📋 ([406d282](https://github.com/paraspell/xcm-tools/commit/406d282aec01486eaa154b5f351f41fc714c0db8))
+
 ## [14.4.4](https://github.com/paraspell/xcm-tools/compare/swap-v14.4.3...swap-v14.4.4) (2026-10-20)
 
 
